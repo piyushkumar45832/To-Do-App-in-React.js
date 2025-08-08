@@ -1,0 +1,13 @@
+
+input{
+  width: 100%;
+}
+
+
+.ps-button{
+  min-width: 80px;
+}
+
+.ps-row{
+  margin:10px 5px;
+}
